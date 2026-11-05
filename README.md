@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br><br>Hi! I'm Muhammad Rizki Kusuma, an Informatics graduate with a strong interest in Full-Stack Web Development and Android Development.<br><br>I enjoy designing and building web applications, information systems, and Android applications that provide practical solutions to real-world problems.<br><br> 💻 Technical Skills<br>- **Programming Languages:** PHP, Java, JavaScript<br>- **Web Development:** Laravel, HTML, CSS<br>- **Android Development:** Java, Android Studio<br>- **Databases:** MySQL, SQLite, Firebase<br>- **Tools:** Visual Studio Code, XAMPP, Git, GitHub, Figma<br><br>### 🚀 Featured Projects<br>- **Warung Nasi Lemak:** A QR Code-based self-service food ordering system built with Laravel, PHP, and MySQL.<br>- **PPDB System:** A web-based student admission information system built with PHP and MySQL.<br>- **Android Applications:** Developing Android applications using Java and local database technologies.<br><br> 🌱 Currently Interested In<br>- Improving my Full-Stack Web Development skills.<br>- Exploring Android application development.<br>- Learning new technologies and software development practices.<br>- Building useful and innovative digital solutions.<br><br> 📫 Connect With Me<br>- **Email:** 11rizkikusuma11@gmail.com<br>- **LinkedIn:** (www.linkedin.com/in/muhammad-rizki-kusuma)<br><br><br><br>
 
-<!--
-**RizkiKusuma2/RizkiKusuma2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Rizki Kusuma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:11rizkikusuma11@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RizkiKusuma2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RizkiKusuma2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RizkiKusuma2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=RizkiKusuma2&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
